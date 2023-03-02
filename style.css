@@ -1,0 +1,29 @@
+.item-1 {
+    background-color: aqua;
+}
+
+.item-2 {
+    background-color: rebeccapurple;
+}
+
+.item-3 {
+    background-color: rgb(86, 255, 1);
+}
+
+.item-4 {
+    background-color: rgb(234, 3, 246);
+}
+
+.item-5 {
+    background-color: rgb(217, 255, 0);
+}
+
+.item-6 {
+    background-color: rgb(255, 0, 89);
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 120px 310px;
+}
