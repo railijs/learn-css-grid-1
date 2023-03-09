@@ -1,0 +1,50 @@
+.item-1 {
+    background-color: #00b3ff;
+}
+
+.item-2 {
+    background-color: #00b3ff;
+}
+
+.item-3 {
+    background-color: #00b3ff;
+}
+
+.item-4 {
+    background-color: #00b3ff;
+}
+
+.item-5 {
+    background-color: #00b3ff;
+}
+
+.item-6 {
+    background-color: #0051ff;
+}
+
+.item-7 {
+    background-color: #0051ff;
+}
+
+.item-8 {
+    background-color: #0051ff;
+} 
+
+.item-9 {
+    background-color: #0051ff;
+}
+
+.item-10 {
+    background-color: #0051ff;
+}
+
+
+
+.container {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px;
+    row-gap: 25px;
+    column-gap: 25px;
+    background-color: #40fef4;
+}
